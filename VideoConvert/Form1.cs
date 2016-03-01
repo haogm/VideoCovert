@@ -37,10 +37,12 @@ namespace VideoConvert
         private void btnConvert_Click(object sender, EventArgs e)
         {
             var pathToVideoFile = this.txtSource.Text;
-            //var pathToSave = this.textBox2.Text + newFileName + "";
+            var newFileName = "NewName";
+            var pathToSaveVideo = this.txtSave.Text + "\\" + newFileName + "." + Format.flv.ToString();
+            var pathToSavePicture = this.txtSave.Text + "\\" + newFileName + ".jpg";
             var ffMpeg = new NReco.VideoConverter.FFMpegConverter();
-            ffMpeg.ConvertMedia(pathToVideoFile, @"D:\333.flv", Format.flv);//转换
-            ffMpeg.GetVideoThumbnail(pathToVideoFile, @"D:\二二.jpg");//截图
+            ffMpeg.ConvertMedia(pathToVideoFile, pathToSaveVideo, Format.flv);//转换
+            ffMpeg.GetVideoThumbnail(pathToVideoFile, pathToSavePicture);//截图
         }
     }
 }
