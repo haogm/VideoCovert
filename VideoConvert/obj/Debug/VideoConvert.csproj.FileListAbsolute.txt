@@ -1,0 +1,12 @@
+D:\我的文档\Visual Studio 2012\Projects\VideoConvert\VideoConvert\bin\Debug\VideoConvert.exe.config
+D:\我的文档\Visual Studio 2012\Projects\VideoConvert\VideoConvert\bin\Debug\VideoConvert.exe
+D:\我的文档\Visual Studio 2012\Projects\VideoConvert\VideoConvert\bin\Debug\VideoConvert.pdb
+D:\我的文档\Visual Studio 2012\Projects\VideoConvert\VideoConvert\bin\Debug\NReco.VideoConverter.dll
+D:\我的文档\Visual Studio 2012\Projects\VideoConvert\VideoConvert\bin\Debug\NReco.VideoConverter.xml
+D:\我的文档\Visual Studio 2012\Projects\VideoConvert\VideoConvert\obj\Debug\VideoConvert.csprojResolveAssemblyReference.cache
+D:\我的文档\Visual Studio 2012\Projects\VideoConvert\VideoConvert\obj\Debug\VideoConvert.Form1.resources
+D:\我的文档\Visual Studio 2012\Projects\VideoConvert\VideoConvert\obj\Debug\VideoConvert.Properties.Resources.resources
+D:\我的文档\Visual Studio 2012\Projects\VideoConvert\VideoConvert\obj\Debug\VideoConvert.csproj.GenerateResource.Cache
+D:\我的文档\Visual Studio 2012\Projects\VideoConvert\VideoConvert\obj\Debug\VideoConvert.exe
+D:\我的文档\Visual Studio 2012\Projects\VideoConvert\VideoConvert\obj\Debug\VideoConvert.pdb
+D:\我的文档\Visual Studio 2012\Projects\VideoConvert\VideoConvert\bin\Debug\SharpFFmpeg.pdb
